@@ -22,12 +22,37 @@ I'm also the founder and creator of **Tartmoon App**, a project I'm actively dev
 ---
 
 ## 🛠 Tech Stack  
-**Languages & Tools:**  
-- HTML  
-- CSS  
-- JavaScript  
-- C++  
-- C#  
+
+### Languages & Tools  
+<p align="left">
+
+<!-- HTML -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+</a>
+
+<!-- CSS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</a>
+
+<!-- C++ -->
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</a>
+
+<!-- C# -->
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+</a>
+
+</p>
+
 
 **Other Skills:**  
 - UX/UI Basics  
