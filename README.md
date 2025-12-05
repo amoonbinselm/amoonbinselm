@@ -1,16 +1,57 @@
-## Hi there 👋
+# 🌙 Hi, I'm Amoon — Front-End Developer & IT Engineer  
+**Owner & Creator of Tartmoon App | Graphic Designer**
 
-<!--
-**amoonbinselm/amoonbinselm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Amoon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amoon-binselm-02558b35b)
+[![Website Badge](https://img.shields.io/badge/Portfolio-mustw3b.space-47CCCC?style=flat&logo=google-chrome&logoColor=white)](https://mustw3b.space)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://www.facebook.com/share/1Cv4XFdCGe/)
+[![Tartmoon Badge](https://img.shields.io/badge/Download_Tartmoon-Telegram-blueviolet?style=flat&logo=telegram)](https://t.me/tartmoon_122)
 
-Here are some ideas to get you started:
+Welcome to my profile! I'm a Front-End Developer, IT Engineer, and Graphic Designer.  
+I enjoy building clean user interfaces, solving real problems through tech, and creating digital experiences that make life easier.  
+I'm also the founder and creator of **Tartmoon App**, a project I'm actively developing and improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ About Me  
+- 👩🏻‍💻 Front-End Developer (HTML, CSS, JavaScript)  
+- 🖥 IT Engineer  
+- 🎨 Graphic Designer  
+- 📱 Founder of **Tartmoon App**  
+- 🚀 Passionate about building projects from scratch and turning ideas into real products  
+
+---
+
+## 🛠 Tech Stack  
+**Languages & Tools:**  
+- HTML  
+- CSS  
+- JavaScript  
+- C++  
+- C#  
+
+**Other Skills:**  
+- UX/UI Basics  
+- Graphic Design  
+- Responsive Web Design  
+- Branding & Visual Identity  
+
+---
+
+## 📱 Tartmoon App  
+My personal mobile app project that I continue to develop and improve.  
+🔗 **Download via Telegram:**  
+👉 https://t.me/tartmoon_122
+
+---
+
+## 🌐 My Website "Mustw3b" 🍀  
+Check out my mesmerizing website (built by me):  
+➡️ https://mustw3b.space
+
+---
+
+## 📫 Contact  
+- LinkedIn: https://www.linkedin.com/in/amoon-binselm-02558b35b  
+- Facebook: https://www.facebook.com/share/1Cv4XFdCGe/  
+- Telegram (Tartmoon): https://t.me/tartmoon_122  
+
