@@ -38,7 +38,7 @@ I'm also the founder and creator of **Tartmoon App**, a project I'm actively dev
 ---
 
 ## 📱 Tartmoon App  
-My personal mobile app project that I continue to develop and improve.  
+My Educational mobile app project that I continue to develop and improve.  
 🔗 **Download via Telegram:**  
 👉 https://t.me/tartmoon_122
 
